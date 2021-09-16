@@ -10,5 +10,5 @@ Gosto muito de aprender!
 ## Tecnologias 
 
 ```diff
-Hola como estas
+- Hola como estas red
 ```
