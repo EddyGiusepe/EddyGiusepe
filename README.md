@@ -11,3 +11,5 @@ Gosto muito de aprender!
 
 
 ![Logo do R](http://developer.r-project.org/Logo/Rlogo-5.png)
+![image](https://user-images.githubusercontent.com/69597971/133535047-1228423c-2276-40d3-ada8-fe1a5facaa40.png)
+
