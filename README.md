@@ -1,6 +1,6 @@
 ## Olá pessoal 👋
 
-Chamo-me Eddy Giusepe Chirinos Isidro, sou formado em ciências físicas, estudo engenharia mecânica e sou Cientista de Dados Jr. Atualmente estou me aprofundizando na linguagem de programação Python e outras ferramentas tecnológicas. Sou do Perú e atualmente moro no Brasil.
+Chamo-me Eddy Giusepe Chirinos Isidro, sou formado em ciências físicas, estudo engenharia mecânica e sou Cientista de Dados Jr. Atualmente estou me aprofundizando na linguagem de programação Python, Inteligência Artificial (Machine Learning, Deep Learning, etc), Apache Spark, Apache Solr, Apache Zeppelin, HTML, Bancos de Dados, Power BI e outras ferramentas tecnológicas. Sou do Perú e atualmente moro no Brasil.
 
 Gosto muito de aprender!
 
@@ -9,6 +9,6 @@ Gosto muito de aprender!
 
 ## Tecnologias 
 
-```diff
-- Hola como estas red
-```
+A seguir cito algumas linguages de programação e ferramentas que atualmente estudo e utilizo no meu dia dia:
+
+
