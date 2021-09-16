@@ -11,4 +11,4 @@ Gosto muito de aprender!
 
 A seguir cito algumas linguages de programação e ferramentas que atualmente estudo e utilizo no meu dia dia:
 
-
+![image](https://user-images.githubusercontent.com/69597971/133537307-25a5250c-436d-40e6-b005-5032a6c7c6ef.png)
