@@ -7,12 +7,8 @@ Gosto muito de aprender!
 [![Eddy](https://user-images.githubusercontent.com/69597971/133535417-bc5020dd-7040-4a87-8a77-7dca95cd4539.png)](https://www.linkedin.com/in/eddy-giusepe-chirinos-isidro-85a43a42/)
 
 
-## Tecnologias
+## Tecnologias :) 
 
 ```diff
 - text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
 ```
