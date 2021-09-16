@@ -4,5 +4,5 @@ Chamo-me Eddy Giusepe Chirinos Isidro, sou formado em ciências físicas, estudo
 
 Gosto muito de aprender!
 
-[![image](https://user-images.githubusercontent.com/69597971/133528365-5a553bc2-e271-447e-8dbb-122ffb620e18.png)
+[![image](https://user-images.githubusercontent.com/69597971/133528365-5a553bc2-e271-447e-8dbb-122ffb620e18.png&raw=true)
 ](https://www.linkedin.com/in/eddy-giusepe-chirinos-isidro-85a43a42/)
