@@ -1,6 +1,6 @@
 ## Olá pessoal 👋
 
-Chamo-me Eddy Giusepe Chirinos Isidro, sou formado em ciências físicas, estudo engenharia mecânica e sou Cientista de Dados Jr. Atualmente estou me aprofundizando na linguagem de programação Python, Inteligência Artificial (Machine Learning, Deep Learning, etc), Apache Spark, Apache Solr, Apache Zeppelin, HTML, Bancos de Dados, Docker, docker-compose, Azure DevOps, Power BI e outras ferramentas tecnológicas. Atualmente moro no Brasil.
+Chamo-me Eddy Giusepe Chirinos Isidro, sou formado em ciências físicas, estudo engenharia mecânica e sou Cientista de Dados Jr. Atualmente estou me aprofundizando na linguagem de programação Python, Inteligência Artificial (Machine Learning, Deep Learning, etc), Apache Spark, Apache Solr, Apache Zeppelin, HTML, Banco de Dados, Docker, docker-compose, Azure DevOps, Power BI e outras ferramentas tecnológicas. Atualmente moro no Brasil.
 
 Gosto muito de aprender!
 
