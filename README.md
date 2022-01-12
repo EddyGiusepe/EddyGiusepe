@@ -23,6 +23,7 @@ A seguir, cito algumas linguages de programação e ferramentas, que atualmente 
 <div>
 <img height= "70em" src="https://user-images.githubusercontent.com/69597971/133537307-25a5250c-436d-40e6-b005-5032a6c7c6ef.png"/>
 <img height= "70em" src="https://user-images.githubusercontent.com/69597971/133537399-9fdefce0-b5ff-4075-9fdc-c1c46d3d8107.png"/>
+<img height= "70em" src="https://user-images.githubusercontent.com/69597971/149045591-5cb5adb9-9ae4-4cc7-a5ed-4a224da3af8e.png"/>   
 <img height= "70em" src="https://user-images.githubusercontent.com/69597971/133843297-25c41735-e219-460d-b8cb-24e2e5146bb5.png"/>  
 <img height= "70em" src="https://user-images.githubusercontent.com/69597971/133537425-67283b6d-d9c4-4e8c-a554-b1e52c1f8dc1.png"/>
 <img height= "70em" src="https://user-images.githubusercontent.com/69597971/133537584-a01d6e56-cd01-4918-8000-c574a5533174.png"/>
@@ -47,18 +48,6 @@ A seguir, cito algumas linguages de programação e ferramentas, que atualmente 
 <img height= "70em" src="https://user-images.githubusercontent.com/69597971/146684434-ed67b851-4fe1-4f7c-8c14-bbb144a860e7.png"/>  
 <img height= "70em" src="https://user-images.githubusercontent.com/69597971/148615574-e27afc36-fee7-48e4-a959-c4fe1cec8bb1.png"/> 
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
