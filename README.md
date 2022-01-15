@@ -44,13 +44,14 @@ A seguir, cito algumas linguages de programação e ferramentas, que atualmente 
 <img height= "70em" src="https://user-images.githubusercontent.com/69597971/146683888-734efa3e-7871-4dd6-b267-35ae152f10ff.png"/>
 <img height= "70em" src="https://user-images.githubusercontent.com/69597971/146683849-a4d389b1-d0c1-4d28-abe7-7772685ffca4.png"/> 
 <img height= "70em" src="https://user-images.githubusercontent.com/69597971/146684311-64abd62f-af29-40a2-94b1-8d1a0be8d66a.png"/>
+<img height= "70em" src="https://user-images.githubusercontent.com/69597971/146684311-64abd62f-af29-40a2-94b1-8d1a0be8d66a.png"/>
+
 <img height= "70em" src="https://user-images.githubusercontent.com/69597971/147183663-fa7787a6-d975-4496-9d5d-0417812819ad.png"/>
 <img height= "70em" src="https://user-images.githubusercontent.com/69597971/147840892-2778bdfb-f985-4e6b-b0c8-b6f548f39ac9.png"/> 
 <img height= "70em" src="https://user-images.githubusercontent.com/69597971/146684434-ed67b851-4fe1-4f7c-8c14-bbb144a860e7.png"/> 
 <img height= "70em" src="https://user-images.githubusercontent.com/69597971/149045777-a22912e1-d4c1-40e6-a0af-12b307c96f31.png"/>  
 <img height= "70em" src="https://user-images.githubusercontent.com/69597971/148615574-e27afc36-fee7-48e4-a959-c4fe1cec8bb1.png"/> 
 </div>
-
 
 
 
