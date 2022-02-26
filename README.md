@@ -16,13 +16,15 @@ Gosto muito de aprender!
 </div>
 
 
+
 ## Tecnologias 🧑‍💻
 
 A seguir, cito algumas linguages de programação e ferramentas, que atualmente estudo e utilizo no meu dia dia:
 
 <div>
 <img height= "70em" src="https://user-images.githubusercontent.com/69597971/133537307-25a5250c-436d-40e6-b005-5032a6c7c6ef.png"/>
-<img height= "70em" src="https://user-images.githubusercontent.com/69597971/155856072-7982f656-12d8-40b4-bd69-89c7663ddf82.png"/>  
+<img height= "70em" src="https://user-images.githubusercontent.com/69597971/155856072-7982f656-12d8-40b4-bd69-89c7663ddf82.png"/> 
+<img height= "70em" src="https://user-images.githubusercontent.com/69597971/155856153-b02df796-a26c-4c8e-a623-a2c32a30e382.png"/> 
 <img height= "70em" src="https://user-images.githubusercontent.com/69597971/133537399-9fdefce0-b5ff-4075-9fdc-c1c46d3d8107.png"/>
 <img height= "70em" src="https://user-images.githubusercontent.com/69597971/149045591-5cb5adb9-9ae4-4cc7-a5ed-4a224da3af8e.png"/>   
 <img height= "70em" src="https://user-images.githubusercontent.com/69597971/133843297-25c41735-e219-460d-b8cb-24e2e5146bb5.png"/>  
