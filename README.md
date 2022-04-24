@@ -55,8 +55,8 @@ A seguir, cito algumas linguages de programação e ferramentas, que atualmente 
 <img height= "70em" src="https://user-images.githubusercontent.com/69597971/148615574-e27afc36-fee7-48e4-a959-c4fe1cec8bb1.png"/> 
 <img height= "70em" src="https://user-images.githubusercontent.com/69597971/156244456-46c0d86e-e7e0-4b9d-a55a-4914e5aea8ff.png"/>
 <img height= "70em" src="https://user-images.githubusercontent.com/69597971/163519493-c09aa51e-9500-471a-bd87-3fbc11984123.png"/>  
+<img height= "70em" src="https://user-images.githubusercontent.com/69597971/164955852-e62f8bd5-16c9-45a1-809f-cc5b3b30b43f.png"/>  
 </div>
-
 
 
 
