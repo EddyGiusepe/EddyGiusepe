@@ -1,8 +1,8 @@
 ## Olá pessoal 👋
 
-Chamo-me Eddy Giusepe Chirinos Isidro, sou formado em ciências físicas, estudo engenharia mecânica e sou Cientista de Dados. Atualmente estou me aprofundizando na linguagem de programação Python, Inteligência Artificial (Machine Learning, Deep Learning, etc), especificamente em:, Apache Spark, Apache Solr, Apache Zeppelin, HTML, Banco de Dados, Docker, docker-compose, Azure DevOps, Power BI e outras ferramentas tecnológicas. Atualmente moro no Brasil.
+Chamo-me Eddy Giusepe Chirinos Isidro, sou formado em ciências físicas, estudo engenharia mecânica e sou Cientista de Dados. Atualmente estou me aprofundizando na linguagem de programação Python, Inteligência Artificial (Machine Learning, Deep Learning, etc), especificamente em: Audio (Speech Processing), Natural Language Processing, Computer Vision, Apache Spark, Apache Solr, Apache Zeppelin, HTML, Banco de Dados, Docker, docker-compose, Azure DevOps, Power BI e outras ferramentas tecnológicas. Atualmente moro no Brasil.
 
-Gosto muito de aprender!
+Sempre atrás do conhecimento!
 
 <div>
 <a href="https://www.linkedin.com/in/eddy-giusepe-chirinos-isidro-85a43a42/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
