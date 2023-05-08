@@ -55,12 +55,13 @@ A seguir, cito algumas linguages de programação e ferramentas, que atualmente 
 <img height= "70em" src="https://user-images.githubusercontent.com/69597971/148615574-e27afc36-fee7-48e4-a959-c4fe1cec8bb1.png"/> 
 <img height= "70em" src="https://user-images.githubusercontent.com/69597971/156244456-46c0d86e-e7e0-4b9d-a55a-4914e5aea8ff.png"/>
 <img height= "70em" src="https://user-images.githubusercontent.com/69597971/163519493-c09aa51e-9500-471a-bd87-3fbc11984123.png"/>  
-<img height= "70em" src="https://user-images.githubusercontent.com/69597971/164955852-e62f8bd5-16c9-45a1-809f-cc5b3b30b43f.png"/>   
-<img height= "70em" src="https://user-images.githubusercontent.com/69597971/167234347-13588550-2adf-4544-b644-776b5bcb3a2e.png"/>
+<img height= "70em" src="https://user-images.githubusercontent.com/69597971/164955852-e62f8bd5-16c9-45a1-809f-cc5b3b30b43f.png"/>
+<img height= "70em" src="https://user-images.githubusercontent.com/69597971/167234347-13588550-2adf-4544-b644-776b5bcb3a2e.png"/>  
+<img height= "70em" src="https://user-images.githubusercontent.com/69597971/236711201-3cfb9cda-0930-4a87-9d82-da100d427410.png"/>
 <img height= "70em" src="https://user-images.githubusercontent.com/69597971/170397903-757ba6ea-fd33-41c5-baf1-e5431a1e76fb.png"/>
 <img height= "70em" src="https://user-images.githubusercontent.com/69597971/170398730-316ba6d4-1283-490e-9880-51683118b52b.png"/> 
 <img height= "70em" src="https://user-images.githubusercontent.com/69597971/170400061-21c4b25c-0354-447d-8c94-6f8ef9d775cd.png"/> 
-<img height= "70em" src="https://user-images.githubusercontent.com/69597971/177463707-03815f47-a231-4c49-8d91-696353164d75.png"/> 
+<img height= "70em" src="https://user-images.githubusercontent.com/69597971/177463707-03815f47-a231-4c49-8d91-696353164d75.png"/>   
 <img height= "70em" src="https://user-images.githubusercontent.com/69597971/184520935-3e0c4a0e-a623-4c12-9de5-a65cc7d0d717.png"/>
 <img height= "70em" src="https://user-images.githubusercontent.com/69597971/185290576-b4c484bc-64aa-431b-94e9-8843a074fc35.png"/>
 <img height= "70em" src="https://user-images.githubusercontent.com/69597971/194786804-5499a96a-d5ec-415f-8564-d326e9b6c919.png"/>
