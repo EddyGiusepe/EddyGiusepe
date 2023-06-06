@@ -74,7 +74,7 @@ A seguir, cito algumas linguages de programação e ferramentas, que atualmente 
 
 
 
-https://github-readme-stats.vercel.app/api?username=EddyGiusepe
+https://github-readme-stats.vercel.app/api?username=eddygiusepe
 
 
 
