@@ -74,12 +74,8 @@ A seguir, cito algumas linguages de programação e ferramentas, que atualmente 
 <img height= "70em" src="https://user-images.githubusercontent.com/69597971/227663922-44a12084-a862-4eec-896a-b20487ca1067.png"/>
 <img height= "70em" src="https://user-images.githubusercontent.com/69597971/227663998-922f98bb-fe35-4063-b8ec-b75a28c398dc.png"/>
 <img height= "70em" src="https://user-images.githubusercontent.com/69597971/227664428-8c875f21-52b5-4810-8ce7-e858db063116.png"/>  
+<img height= "70em" src="https://github.com/EddyGiusepe/EddyGiusepe/assets/69597971/7072b5e5-4109-4713-8ee5-cec397dc29c9"/>  
 </div>
-
-
-
-https://github-readme-stats.vercel.app/api?username="EddyGiusepe"
-
 
 
 
