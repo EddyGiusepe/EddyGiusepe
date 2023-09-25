@@ -23,6 +23,8 @@ Sempre atrás do conhecimento!
 
 
 
+
+
 ## Tecnologias 🧑‍💻
 
 A seguir, cito algumas linguages de programação e ferramentas, que atualmente estudo e utilizo no meu dia dia:
