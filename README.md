@@ -30,6 +30,7 @@ Sempre atrás do conhecimento!
 
 
 
+
 ## Tecnologias 🧑‍💻
 
 A seguir, cito algumas linguages de programação e ferramentas, que atualmente estudo e utilizo no meu dia dia:
@@ -81,7 +82,7 @@ A seguir, cito algumas linguages de programação e ferramentas, que atualmente 
 <img height= "70em" src="https://user-images.githubusercontent.com/69597971/194878608-1f37bb63-175d-47f6-9afa-bd85114a78aa.png"/>
 <img height= "70em" src="https://user-images.githubusercontent.com/69597971/195969956-a17f8680-bf51-4447-b30d-17348c1a836b.png"/>
 <img height= "70em" src="https://user-images.githubusercontent.com/69597971/200149664-370d8d13-f3d2-48c2-a983-b286779df566.png"/>
-<img height= "70em" src="https://user-images.githubusercontent.com/69597971/227663922-44a12084-a862-4eec-896a-b20487ca1067.png"/>
+
 <img height= "70em" src="https://user-images.githubusercontent.com/69597971/227663998-922f98bb-fe35-4063-b8ec-b75a28c398dc.png"/>
 <img height= "70em" src="https://user-images.githubusercontent.com/69597971/227664428-8c875f21-52b5-4810-8ce7-e858db063116.png"/>  
 <img height= "70em" src="https://github.com/EddyGiusepe/EddyGiusepe/assets/69597971/7072b5e5-4109-4713-8ee5-cec397dc29c9"/>  
@@ -91,7 +92,7 @@ A seguir, cito algumas linguages de programação e ferramentas, que atualmente 
 <img height= "70em" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1687175084655/26a6b53f-e582-41c7-8504-b2e4d3a4691e.png"/>
 <img height= "70em" src="https://github.com/EddyGiusepe/EddyGiusepe/assets/69597971/497bf7f6-b609-4b40-abc8-87c6c002421e"/>  
 <img height= "70em" src="https://github.com/EddyGiusepe/EddyGiusepe/assets/69597971/8e7e2e09-03e2-4357-9aca-ec2f989b257a"/>
-<img height= "70em" src="https://github.com/EddyGiusepe/EddyGiusepe/assets/69597971/345bd112-8465-4dd4-8f40-86b7cfcf288e"/>
+<img height= "70em" src="https://github.com/EddyGiusepe/EddyGiusepe/assets/69597971/f780e018-9b27-478e-abde-eb65f2eb09a9"/>
 </div>
 
 
