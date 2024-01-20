@@ -88,11 +88,9 @@ A seguir, cito algumas linguages de programação e ferramentas, que atualmente 
 <img height= "70em" src="https://github.com/EddyGiusepe/EddyGiusepe/assets/69597971/8e7e2e09-03e2-4357-9aca-ec2f989b257a"/>
 <img height= "70em" src="https://github.com/EddyGiusepe/EddyGiusepe/assets/69597971/f780e018-9b27-478e-abde-eb65f2eb09a9"/>
 <img height= "70em" src="https://github.com/EddyGiusepe/EddyGiusepe/assets/69597971/2250761c-00dc-4e32-8396-fc60ae6c20d6"/>
+<img height= "70em" src="https://github.com/EddyGiusepe/EddyGiusepe/assets/69597971/885e4dd5-53f1-4207-b81c-3b5be7b317af"/>
+<img height= "70em" src="https://github.com/EddyGiusepe/EddyGiusepe/assets/69597971/c6572d6a-4165-4363-a4a0-ee2416aaacc0"/>
 </div>
-
-
-
-
 
 
 
