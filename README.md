@@ -6,8 +6,6 @@ Sempre atrás do conhecimento!
 
 
 
-
-
 <div>
 <a href="https://www.linkedin.com/in/eddy-giusepe-chirinos-isidro-85a43a42/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
@@ -77,7 +75,6 @@ A seguir, cito algumas linguages de programação e ferramentas, que atualmente 
 <img height= "70em" src="https://user-images.githubusercontent.com/69597971/194878608-1f37bb63-175d-47f6-9afa-bd85114a78aa.png"/>
 <img height= "70em" src="https://user-images.githubusercontent.com/69597971/195969956-a17f8680-bf51-4447-b30d-17348c1a836b.png"/>
 <img height= "70em" src="https://user-images.githubusercontent.com/69597971/200149664-370d8d13-f3d2-48c2-a983-b286779df566.png"/>
-
 <img height= "70em" src="https://user-images.githubusercontent.com/69597971/227663998-922f98bb-fe35-4063-b8ec-b75a28c398dc.png"/>
 <img height= "70em" src="https://user-images.githubusercontent.com/69597971/227664428-8c875f21-52b5-4810-8ce7-e858db063116.png"/>  
 <img height= "70em" src="https://github.com/EddyGiusepe/EddyGiusepe/assets/69597971/7072b5e5-4109-4713-8ee5-cec397dc29c9"/>  
@@ -94,8 +91,8 @@ A seguir, cito algumas linguages de programação e ferramentas, que atualmente 
 <img height= "70em" src="https://github.com/EddyGiusepe/EddyGiusepe/assets/69597971/c6572d6a-4165-4363-a4a0-ee2416aaacc0"/>
 <img height= "70em" src="https://github.com/EddyGiusepe/EddyGiusepe/assets/69597971/65ed2ba3-71b0-4c0a-a2f4-947481bb8b45"/>
 <img height= "70em" src="https://github.com/EddyGiusepe/EddyGiusepe/assets/69597971/2abaab6e-d4df-4689-8695-3410099541af"/>
+<img height= "70em" src="https://github.com/EddyGiusepe/EddyGiusepe/assets/69597971/64c431c8-1531-4ad1-8911-3272fa96016b"/>
 </div>
-
 
 
 
