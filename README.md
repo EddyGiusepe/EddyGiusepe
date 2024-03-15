@@ -101,4 +101,8 @@ A seguir, cito algumas linguages de programação e ferramentas, que atualmente 
 
 
 
+
+
+
+
 Thanks God!
