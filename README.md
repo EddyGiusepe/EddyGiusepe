@@ -104,7 +104,9 @@ A seguir, cito algumas linguages de programação e ferramentas, que atualmente 
 <img height= "70em" src="https://github.com/user-attachments/assets/933355b6-2a74-47b9-97c3-024aebd6076a"/>  
 <img height= "70em" src="https://github.com/user-attachments/assets/adfb8707-e306-49ce-9f89-367ebe3ede0e"/>
 <img height= "70em" src="https://github.com/user-attachments/assets/29a5d52a-2299-478c-b372-622a0c85d875"/>
+<img height= "70em" src="https://github.com/user-attachments/assets/d0873251-644f-4676-8a0e-ab585de6e246"/>  
 </div>
+
 
 
 
